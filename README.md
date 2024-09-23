@@ -1,3 +1,6 @@
 # lc_lca
-ustc
-lc_lca@mail.ustc.edu.cn
+undergraduate student in University of Science and Technology of China
+
+I will keep on developing fancy music and audio generation and enhancement systems in all my time.
+
+Mail: lc_lca@mail.ustc.edu.cn
